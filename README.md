@@ -1,3 +1,4 @@
+![logo](https://github.com/sahilpatel0oo7/sahilpatel0oo7/blob/main/Black%20Technology%20LinkedIn%20Banner.pdf)
 <h1 align="center">Hi 👋, I'm Sandeep Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw097EMLDz70UGUSYCW1Tkma&ust=1702524326204000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDbstW7i4MDFQAAAAAdAAAAABAI" alt="coding">
